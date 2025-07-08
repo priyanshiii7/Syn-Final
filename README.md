@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/adbd4b7d-ccad-434f-9ced-fc44e19ba598)# Syn-Test
+# Syn-Test
 This is a test repo for Synthesis project.
 
 Hey team! 👋 Please follow these steps to add your files to your own branches:
